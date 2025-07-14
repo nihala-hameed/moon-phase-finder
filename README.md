@@ -29,4 +29,4 @@ Postgraduate Student in Data Science and AI
 Aspiring Data Scientist with a passion for building creative and useful projects.
 
 ## Special Note
-This project was part of my personal learning journey. I aimed not just to build something that works, but something that looks and feels thoughtful. Even though i did not include animated stars, the choice to use a calm sky image background was intentional — to bring a peaceful and elegant experience. The goal was to combine logic, creativity, and design into a single web application.
+This project was part of my personal learning journey. I aimed not just to build something that works, but something that looks and feels thoughtful. Even though i did not include animated stars, the choice to use a calm sky image background was intentional ,to bring a peaceful and elegant experience. The goal was to combine logic, creativity, and design into a single web application.
